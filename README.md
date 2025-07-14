@@ -17,9 +17,9 @@ We then train multiple regression models to predict the price of vehicles. The m
 
 # Algorithms Used
 The following machine learning algorithms were applied and compared in this project:
-Linear Regression
-Decision Tree Regression (DT)
-Random Forest Regression (RF)
-Gradient Boosting Regression (GBR)
-XGBoost Regressor
+- Linear Regression
+- Decision Tree Regression (DT)
+- Random Forest Regression (RF)
+- Gradient Boosting Regression (GBR)
+- XGBoost Regressor
 
